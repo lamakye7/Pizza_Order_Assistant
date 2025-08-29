@@ -13,7 +13,7 @@ Explore the live app on Hugging Face:
 
 ![App Screenshot 2](chaboot1.PNG)
 
-## Tools USed
+## Tools Used
 1. **OpenAI Api:** gpt-4.1-nano-2025-04-14.
 2. **Gradio:** 
 
